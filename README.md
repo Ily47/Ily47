@@ -1,5 +1,5 @@
 # 💫 About Me:
-Results-driven software developer with over 8 years of experience in designing and developing scalable web applications. Proficient in modern technologies including Angular, .NET Core, C#, ASP.NET MVC, ASP.NET Web API, Python, HTML5, and jQuery. Adept at delivering robust solutions, optimizing performance, and collaborating effectively with cross-functional teams. Holds a Bachelor of Technology degree in Computer Science and brings a strong foundation in software engineering and application architecture.
+Results-driven software developer with over 8 years of experience in designing and developing scalable web applications. Proficient in modern technologies including Angular, React, .NET Core, C#, ASP.NET MVC, ASP.NET Web API, Python, HTML5, and jQuery. Adept at delivering robust solutions, optimizing performance, and collaborating effectively with cross-functional teams. Holds a Bachelor of Technology degree in Computer Science and brings a strong foundation in software engineering and application architecture.
 
 
 ## 🌐 Socials:
